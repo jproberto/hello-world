@@ -1,2 +1,2 @@
 # hello-world
-Só um teste
+Olá, humanos.
